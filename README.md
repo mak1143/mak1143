@@ -1,6 +1,6 @@
 ### Hey, I'm Dennis
 
-A **fullstack engineer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
+A **fullstack developer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
 
 - Exploring the depths of **Backend Development** and **System** 
 - Obsessively customizing my [dotfiles](https://github.com/) and [scripts](https://github.com/)
