@@ -9,7 +9,7 @@ A **fullstack developer** passionate about building **scalable systems**,  craft
 
 
 ```bash
-ad@arch / ~>
+shoyo@linux / ~>
 ───────────────────────────────────────────────
 OS        : Linux 6.16.7-arch1-1
 Editor    : Neovim v0.11.4 (Lazyvim)
