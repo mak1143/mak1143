@@ -27,7 +27,7 @@ Contact   : dennisagyemang669@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,git,obsidian,linux,python,html,css,js,bash ,aws" />
+    <img src="https://skillicons.dev/icons?i=neovim,git,obsidian,linux,python,html,css,js,bash,aws" />
   </a>
 </p>
 
