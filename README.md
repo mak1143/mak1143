@@ -31,5 +31,5 @@ Contact   : dennisagyemang669@gmail.com
   </a>
 </p>
 
-![lualine](assets/lualine-2.png)
+
 
