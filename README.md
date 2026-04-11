@@ -33,5 +33,8 @@ Contact   : dennisagyemang669@gmail.com
 </p>
 
 
+<img width="1834" height="36" alt="lualine" src="https://github.com/user-attachments/assets/4d10e442-af33-4057-82ee-6d1aed628b30" />
+
+
 
 
