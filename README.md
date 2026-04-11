@@ -2,8 +2,9 @@
 
 A **fullstack developer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
 
+
 - Exploring the depths of **Backend Development** and **System** 
-- I use [lazyvm](https://lazyvim.com/) because am lazy lol.
+-  I use [lazyvm](https://lazyvim.com/) because am lazy lol.
 
 
 
