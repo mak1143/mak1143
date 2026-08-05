@@ -1,6 +1,6 @@
-### **_I'm Dennis Agyemang_**
+### **I'm Dennis Agyemang**
 
-A **Software developer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
+**Designer & Software developer** passionate about building **scalable systems**,  crafting **smooth developer workflows**, writing **scripts that automate life**,  and contributing to **open source**.
 
 
 > - Exploring the depths of **Backend Development** and **System** 
