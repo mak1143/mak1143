@@ -13,7 +13,7 @@
 shoyo@linux / ~>
 ───────────────────────────────────────────────
 OS        : Linux 7.2.4.7-arch1-1
-Environment: Ghostty + Zsh + LazyVim + Vscode + tmux + gh + fzf etc.
+Environment: Ghostty, Zsh, LazyVim, Vscode.
 Languages : PYTHON, JAVASCRIPT
 ───────────────────────────────────────────────
 Frontend  : HTML,CSS,TAILWIND,REACT
