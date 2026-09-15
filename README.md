@@ -12,12 +12,13 @@
 ```bash
 shoyo@linux / ~>
 ───────────────────────────────────────────────
-OS        : Linux 6.16.7-arch1-1
-Editor    : Ghostty v0.11.4 (Lazyvim)
+OS        : Linux 7.2.4.7-arch1-1
+Environment: Ghostty + Zsh + LazyVim + Vscode + tmux + gh + fzf etc.
 Languages : PYTHON, JAVASCRIPT
 ───────────────────────────────────────────────
-Backend   : PYTHON
-Database  : .....
+Frontend  : HTML,CSS,TAILWIND,REACT
+Backend   : PYTHON(Django && flask)
+Database  : SQL
 ───────────────────────────────────────────────
 Workflow  : Shell Scripting, Automation
 Contact   : dennisagyemang669@gmail.com
